@@ -1,0 +1,12 @@
+@import url('dat://4505deef3a8f1d4258e8fd1be49c68ba3efc475308ce484a7f8164d4dcf3dba1/fonts/Merriweather/style.css');
+@import url('dat://4505deef3a8f1d4258e8fd1be49c68ba3efc475308ce484a7f8164d4dcf3dba1/fonts/Open+Sans/style.css');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+h1, h2, h3, h4, h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+article .body { font-family: 'Merriweather', serif; }
