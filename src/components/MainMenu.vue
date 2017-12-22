@@ -5,8 +5,8 @@
         <nav>
             <router-link to="/"><h1>Sander Moolin</h1></router-link>
             <ul>
-                <li><a href="/blog">Blog</a></li>
-                <li><a href="/ld40">Games</a></li>
+                <li><a href="/blog/">Blog</a></li>
+                <li><a href="/ld40/">Games</a></li>
             </ul>
         </nav>
 
