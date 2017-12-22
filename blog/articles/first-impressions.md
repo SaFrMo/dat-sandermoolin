@@ -20,4 +20,4 @@ I'd like to see the "New Site" button have some more non-tech options to start w
 
 ![Screenshot of the first window you see after clicking "New Site", a technical-looking chart of files](blog/images/new-site-first-impression.png)
 
-As someone neck-deep in Atom all day, I love this window, but it's not the most approachable thing for a completely new user. Part of Geocities's appeal was that non-tech people could use it, so something a little more immediately relatable might be an exciting thing to see.
+As someone neck-deep in Atom all day, I love this window, but it's not the most approachable thing for a completely new user. Part of Geocities's appeal was that non-tech people could use it, so something a little more immediately relatable might be an exciting thing to see after you click "New Site."
