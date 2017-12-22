@@ -5,11 +5,11 @@ import FrontPage from '@/components/FrontPage'
 Vue.use(Router)
 
 export default new Router({
-  routes: [
-    {
-      path: '/',
-      name: 'FrontPage',
-      component: FrontPage
-    }
-  ]
+    routes: [
+        {
+            path: '/',
+            name: 'FrontPage',
+            component: FrontPage
+        }
+    ]
 })

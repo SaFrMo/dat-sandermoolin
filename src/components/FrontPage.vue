@@ -3,7 +3,7 @@
     <main>
 
         <section class="gallery">
-            <shining-sun/>
+            <planet-earth/>
         </section>
 
         <main-menu/>
