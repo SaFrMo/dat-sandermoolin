@@ -25,6 +25,7 @@
     margin-left: 0;
     border: 4px solid #000;
     padding: 0 30px;
+    background-color: #fff;
 
     position: absolute;
     right: $body-padding;

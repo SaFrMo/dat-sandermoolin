@@ -7,6 +7,9 @@ import MainMenu from './components/MainMenu'
 
 Vue.config.productionTip = false
 
+// components
+Vue.component('shining-sun', require('./components/parts/ShiningSun').default)
+
 // register components globally
 Vue.component('main-menu', MainMenu)
 
