@@ -31,7 +31,7 @@
     bottom: $body-padding;
 
     h1 {
-        border-bottom: 2px solid $color2;;
+        border-bottom: 2px solid $color2;
     }
     ul {
         padding: 0;
