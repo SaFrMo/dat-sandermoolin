@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/safrmo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sandermoolin.com
+  * I am safrmo (https://keybase.io/safrmo) on keybase.
+  * I have a public key ASBu-WO-xxfU6n0lkWsmHwlyGp3X2eba7iBHO70mLul_uwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ef963bec717d4ea7d25916b261f09721a9dd7d9e6daee20473bbd262ee97fbb0a",
+      "host": "keybase.io",
+      "kid": "01206ef963bec717d4ea7d25916b261f09721a9dd7d9e6daee20473bbd262ee97fbb0a",
+      "uid": "d76c01a015495fccb7aee343356b4f19",
+      "username": "safrmo"
+    },
+    "merkle_root": {
+      "ctime": 1516659469,
+      "hash": "e7942db36736316054317f98260a30fe093a7b5c08579e0daa097e87ed98b7fcaba3f6ebf0ec05ad011f35882314a0f7fc7107cce891d5bb9f1839f5757cb845",
+      "hash_meta": "5a4916fad564cecd768df124848e68e8ede11e01062efb5d9d84936702f2d0d3",
+      "seqno": 1958370
+    },
+    "service": {
+      "hostname": "sandermoolin.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516659473,
+  "expire_in": 504576000,
+  "prev": "29d75b225ad94fa0f7ae5a54ab25478c3293b48656e0687f59d9d0314e76d4fc",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbvljvscX1Op9JZFrJh8Jchqd19nm2u4gRzu9Ji7pf7sKp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNmVmOTYzYmVjNzE3ZDRlYTdkMjU5MTZiMjYxZjA5NzIxYTlkZDdkOWU2ZGFlZTIwNDczYmJkMjYyZWU5N2ZiYjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmVmOTYzYmVjNzE3ZDRlYTdkMjU5MTZiMjYxZjA5NzIxYTlkZDdkOWU2ZGFlZTIwNDczYmJkMjYyZWU5N2ZiYjBhIiwidWlkIjoiZDc2YzAxYTAxNTQ5NWZjY2I3YWVlMzQzMzU2YjRmMTkiLCJ1c2VybmFtZSI6InNhZnJtbyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNjY1OTQ2OSwiaGFzaCI6ImU3OTQyZGIzNjczNjMxNjA1NDMxN2Y5ODI2MGEzMGZlMDkzYTdiNWMwODU3OWUwZGFhMDk3ZTg3ZWQ5OGI3ZmNhYmEzZjZlYmYwZWMwNWFkMDExZjM1ODgyMzE0YTBmN2ZjNzEwN2NjZTg5MWQ1YmI5ZjE4MzlmNTc1N2NiODQ1IiwiaGFzaF9tZXRhIjoiNWE0OTE2ZmFkNTY0Y2VjZDc2OGRmMTI0ODQ4ZTY4ZThlZGUxMWUwMTA2MmVmYjVkOWQ4NDkzNjcwMmYyZDBkMyIsInNlcW5vIjoxOTU4MzcwfSwic2VydmljZSI6eyJob3N0bmFtZSI6InNhbmRlcm1vb2xpbi5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNjY1OTQ3MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIyOWQ3NWIyMjVhZDk0ZmEwZjdhZTVhNTRhYjI1NDc4YzMyOTNiNDg2NTZlMDY4N2Y1OWQ5ZDAzMTRlNzZkNGZjIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQNOpDRGPq3u+hbbqtyEcVLZSLvLRmUdjERQbPAAOvxK34Pys0r3sh6bwSk14VdM17clX8EG6I+jbZ5HC23wSPgSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDmFrQWIJqbAO47wNNzRjllH6Pwln/H3fmIyZVGeaWB4KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/safrmo
+
+==================================================================
