@@ -23,10 +23,18 @@ body {
     color: #2c3e50;
 }
 
-a {
+a,
+button {
     text-decoration: none;
     color: $color1;
     transition: color 0.4s;
+    appearance: none;
+    outline: none;
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    font-size: 21px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
 
     &:hover,
     &:focus {
