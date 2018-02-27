@@ -9,7 +9,7 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-    "deploy": "npm run build && node deploy"
+    "deploy": "node deploy"
   },
   "dependencies": {
     "fh-deploy": "^1.0.2",

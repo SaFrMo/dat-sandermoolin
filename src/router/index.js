@@ -12,7 +12,7 @@ export default new Router({
             path: '/',
             name: 'FrontPage',
             component: FrontPage
-        }//,
+        }// ,
         // {
         //     path: '/about',
         //     name: 'About',
