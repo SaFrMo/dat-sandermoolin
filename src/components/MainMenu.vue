@@ -5,7 +5,7 @@
         <nav>
             <router-link to="/"><h1>Sander Moolin</h1></router-link>
             <ul>
-                <li><a href="/blog/">Blog</a></li>
+                <!-- <li><router-link to="about">About</router-link></li> -->
                 <li><a href="/ld40/">Games</a></li>
             </ul>
         </nav>

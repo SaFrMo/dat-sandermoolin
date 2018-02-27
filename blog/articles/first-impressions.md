@@ -5,12 +5,6 @@ Beaker, Dat, and p2p browsing seem like they're in a stage where they're ready f
 
 I want to catalog a couple of my first impressions as a new Dat/Beaker user, before I get too used to the system that's already in place. My experience won't be unique, so I'd like to save some future effort by documenting that experience early on.
 
-## Wired Limitations
-(TODO)
-
-## Incentivizing Seeding
-(TODO)
-
 ## Making the Tech Accessible
 Developing a "killer app" seems like a natural next step for Dat, Beaker, and p2p browsing - the more users are on the p2p network, the better that network will be, and the more removed from monolithic power structures those users will be.
 
