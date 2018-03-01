@@ -1,4 +1,4 @@
-date: 2017-12-19
+date: 19-12-2017
 title: First Impressions
 
 Beaker, Dat, and p2p browsing seem like they're in a stage where they're ready for developers to come in and start fixing  problems - the underlying tech seems to be ready to use, but there are still plenty of barriers to entry for both tech-familiar and non-tech users.

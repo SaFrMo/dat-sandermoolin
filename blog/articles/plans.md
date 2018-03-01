@@ -1,4 +1,4 @@
-date: 2018-2-27
+date: 27-02-2018
 title: Plans!
 
 I've been starting off my days on [Fritter](dat://9900f9aad4d6e79e0beb1c46333852b99829e4dfcdfa9b690eeeab3c367c1b9a/) saying what I'm going to do in the coming day, so I thought I'd use this space to expand on those to-do lists. I'd like to talk about what I'm learning and what I'm working on so that I can get a clearer snapshot of my own growth as a developer.
