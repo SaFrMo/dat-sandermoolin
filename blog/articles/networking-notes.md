@@ -32,7 +32,7 @@ This is great info, but I'm specifically interested in the Dat protocol. I've le
 
 Not everything super helpful:
 
-![Google search results for "swarms in dat"](/blog/images/swarm-definition.png)
+![Google search results for "swarms in dat"](/blog/images/beekeeping.png)
 
 The couple articles quoting a 17th-century essay on beekeeping aren't quite what we're looking for, but the Dat whitepaper [here](https://datproject.org/paper) is a much better bet.
 
