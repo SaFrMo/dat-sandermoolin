@@ -40,4 +40,6 @@ As an aside, I hope this article shows a little about why I didn't just jump int
 
 ![](/blog/images/beekeeping.png)
 
-(to be continued!)
+(Text from "swarms in dat" highlighted here!)
+
+Continued in the next post!
