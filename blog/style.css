@@ -9,4 +9,17 @@ h1, h2, h3, h4, h5 {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
-article .body { font-family: 'Merriweather', serif; }
+.articles article .body {
+    font-family: 'Open Sans', serif;
+    line-height: 2;
+}
+.articles article .body a {
+    text-decoration: underline;
+}
+blockquote {
+    padding-left: 40px;
+    border-left: 2px solid #ccc;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
