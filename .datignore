@@ -15,4 +15,5 @@ node_modules
 .postcssrc.js
 package-lock.json
 package.json
-.deployrc.js
+.deployrc.json
+readme-server.md
