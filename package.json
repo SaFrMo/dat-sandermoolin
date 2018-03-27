@@ -12,6 +12,7 @@
     "deploy": "node deploy"
   },
   "dependencies": {
+    "fh-components": "^1.2.39",
     "fh-deploy": "^1.1.4",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.7",

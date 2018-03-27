@@ -6,7 +6,7 @@
             <router-link to="/"><h1>Sander Moolin</h1></router-link>
             <ul>
                 <li><a href="/blog">Blog</a></li>
-                <!-- <li><router-link to="about">About</router-link></li> -->
+                <li><router-link to="about">About</router-link></li>
                 <li><a href="/ld40/">Games</a></li>
             </ul>
         </nav>
@@ -39,6 +39,15 @@
         padding: 0;
         list-style-type: none;
     }
+}
+
+@media (max-width: 750px) {
+     .main-menu {
+         right: 10px;
+         bottom: 10px;
+         left: 10px;
+         width: initial;
+     }
 }
 
 </style>

@@ -1,6 +1,8 @@
 <template>
     <div id="app">
-        <router-view/>
+        <transition name="fade" mode="out-in">
+            <router-view/>
+        </transition>
     </div>
 </template>
 
@@ -32,5 +34,15 @@ a {
     &:focus {
         color: $color2;
     }
+}
+
+// transitions
+.fade-enter,
+.fade-leave-to {
+    opacity: 0;
+}
+.fade-enter-active,
+.fade-leave-active {
+    transition: opacity 0.4s;
 }
 </style>
