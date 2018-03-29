@@ -31,7 +31,7 @@
 
             <p>I want to contribute to a world where those points are the bare minimum for building tools and creating art with code, and I want to do so in a way that creates exciting, beautiful, and challenging material.</p>
 
-            <p>I'm also on <a-div href="https://twitter.com/sandermoolin">Twitter</a-div>, <a-div href="https://github.com/safrmo">Github</a-div>, and <a href="dat://9900f9aad4d6e79e0beb1c46333852b99829e4dfcdfa9b690eeeab3c367c1b9a/user/dat://14e02bfbe6d66113327a1e2f473dcd639dc3d9d97a05c1e5778a6c295fd02095">Fritter</a>. Thanks for reading!</p>
+            <p>I'm also on <a-div href="https://twitter.com/sandermoolin">Twitter</a-div>, <a-div href="https://github.com/safrmo">Github</a-div>, and <a href="dat://14e02bfbe6d66113327a1e2f473dcd639dc3d9d97a05c1e5778a6c295fd02095">Fritter</a>. Thanks for reading!</p>
 
             <p><router-link to="/">Home</router-link></p>
 

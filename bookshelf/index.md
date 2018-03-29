@@ -3,11 +3,14 @@
 Books marked with a * are ones I particularly recommend.
 
 ## Currently reading
-* Bad Feminist - Roxane Gay
-* Bloodchild and Other Stories - Octavia E. Butler
 * The Power - Naomi Alderman
+* Griots: A Sword and Soul Anthology - Charles R. Saunders, Milton Davis
 
 ## 2018
+* [A Dead Djinn in Cairo](https://www.tor.com/2016/05/18/a-dead-djinn-in-cairo/)* - P. Djeli Clark
+* The Giver - Lois Lowry
+* Bad Feminist - Roxane Gay
+* Bloodchild and Other Stories* - Octavia E. Butler
 * [City of Brass](https://www.amazon.com/City-Brass-Novel-Daevabad-Trilogy/dp/0062678108)* - S. A. Chakraborty
 * [River of Teeth](https://www.amazon.com/River-Teeth-Sarah-Gailey/dp/0765395231)* - Sarah Gailey
 * [The Hate U Give](https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533)* - Angie Thomas
